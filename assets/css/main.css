@@ -3421,4 +3421,15 @@ footer .text-right {
     background-position:center;
 }
 
-
+#partners_image{
+	width: 100%;
+	height: 300px;
+}
+#partners_image>img{
+	width: 100%;
+	overflow: hidden;
+}
+#partners_about{
+	width:90%;
+	margin-left: 50px;
+}
